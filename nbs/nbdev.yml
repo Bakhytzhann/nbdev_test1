@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test1"
+  site-url: "https://Bakhytzhann.github.io/nbdev_test1"
+  description: "nbdev_test1 start learning exploring with fasthtml and django"
+  repo-branch: main
+  repo-url: "https://github.com/Bakhytzhann/nbdev_test1"
